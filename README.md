@@ -7,6 +7,11 @@ Since 2022, I'm running a YouTube Channel "CloudScalr", where create detailed te
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEaf-13dkeyYxn3eAxVeu8Q?label=Watch%20me%20on%20YouTube&logo=youtube&logoColor=red&style=flat)](https://www.youtube.com/channel/UCEaf-13dkeyYxn3eAxVeu8Q/featured)
 
+## My blog
+
+Feel free to visit my blog.
+[cloudscalr.com](https://cloudscalr.com)
+
 
 <!--
 **KasteM34/KasteM34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
