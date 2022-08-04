@@ -9,7 +9,7 @@ Since 2022, I'm running a YouTube Channel "CloudScalr", where create detailed te
 
 ## My blog
 
-Feel free to visit my blog.
+Feel free to visit my blog.</br>
 [cloudscalr.com](https://cloudscalr.com)
 
 
