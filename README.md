@@ -1,5 +1,5 @@
 # Hi, there! 👋
-I’m Guilhem, a Cloud/DevOps enthusiast.
+I’m Guilhem Castillo, a Cloud/DevOps enthusiast.
 
 ## My YouTube Channel
 
