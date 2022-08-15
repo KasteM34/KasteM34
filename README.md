@@ -3,7 +3,7 @@ I’m Guilhem Castillo, a Cloud/DevOps enthusiast.
 
 ## My YouTube Channel
 
-Since 2022, I'm running a YouTube Channel "CloudScalr", where create detailed tech videos about Cloud, DevOps, Homelab projects and share my best practices.
+Since 2022, I'm running a YouTube Channel "CloudScalr", where I create detailed tech videos about Cloud, DevOps, Homelab projects and share my best practices.
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEaf-13dkeyYxn3eAxVeu8Q?label=Watch%20me%20on%20YouTube&logo=youtube&logoColor=red&style=flat)](https://www.youtube.com/channel/UCEaf-13dkeyYxn3eAxVeu8Q/featured)
 
